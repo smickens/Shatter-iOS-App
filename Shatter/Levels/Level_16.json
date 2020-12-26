@@ -1,0 +1,18 @@
+{
+      "levelNumber": 16,
+
+      "1st_Number": "block type - 1 = square block, 2 = equilateral triangle, 3 = right triangle",
+      "2nd_Number": "strength (starting color of block) - 1 = strongest block, 4 = middle strength, and 6 = weakest block",
+      "3rd_Number": "direction (for triangle blocks) - 1 = up/top left, 2 = down/top right, 3 = bottom left, 4 = bottom right",
+      
+      "levelData": {
+          "row1": [11, 0, 11, 0, 11, 0, 11],
+          "row2": [0, 11, 0, 11, 0, 11, 0],
+          "row3": [14, 0, 14, 0, 14, 0, 14],
+          "row4": [0, 14, 0, 14, 0, 14, 0],
+          "row5": [16, 0, 16, 0, 16, 0, 16],
+          "row6": [0, 16, 0, 16, 0, 16, 0],
+          "row7": [0, 0, 0, 0, 0, 0, 0]
+      }
+
+}
